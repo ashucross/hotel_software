@@ -61,9 +61,8 @@ code {
 
 .app-header {
   background-color: #282c34;
-  padding: 20px;
-  color: white;
-  text-align: center;
+  padding: 10px;
+  color: white; ;
 }
 
 .app-main {
