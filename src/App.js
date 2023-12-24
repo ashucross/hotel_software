@@ -17,8 +17,8 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <div style={{'margin-left':'30px'}}>
-        <h1 >RR Room Allocation : Monday 26/12/2023 - Room 6</h1>
+        <div style={{'margin-left':'40px'}}>
+        <p >RR Room Allocation : Monday 26/12/2023 - Room 6</p>
         </div>
       </header>
       <main className="app-main">
